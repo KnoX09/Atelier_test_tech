@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 And NodeJS with Express
 
+Initialize the project, in both folder (back_app, front-ts-app) with de command:
+###`npm i`
+
 ## Available Scripts
 
 In the project directory, you can run:
