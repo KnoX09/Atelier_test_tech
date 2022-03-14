@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "client": "cd front-ts-app && npm start",
+    "server": "cd back_app && npm start",
+    "start": "concurrently \"npm run client\" \"npm run server\" "
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
